@@ -1,9 +1,9 @@
 # 数学建模资源
 
 ### 论文
-* [论文1]()
-* [论文2]()
-* [论文3]()
+* [2017年优秀论文](https://github.com/zhanwen/MathModel/tree/master/2017%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)
+* [2016年优秀论文](https://github.com/zhanwen/MathModel/tree/master/2016%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)
+
 
 
 ### 算法
