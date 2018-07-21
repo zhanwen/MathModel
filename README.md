@@ -107,7 +107,15 @@
 
 ### 数学建模算法
 * [经典算法](https://github.com/zhanwen/MathModel/tree/master/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AE%97%E6%B3%95)
-* [现代算法待更新.....]()
+* [现代算法](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95)
+	* [计算机仿真](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BB%BF%E7%9C%9F) 
+	* [粒子群算法](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E7%B2%92%E5%AD%90%E7%BE%A4%E7%AE%97%E6%B3%95)
+	* [马尔可夫链](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E9%93%BE)
+	* [蒙特卡洛法](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%B3%95)
+	* [模拟退火法](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB%E6%B3%95)
+	* [神经网络](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+	* [小波分析](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E5%B0%8F%E6%B3%A2%E5%88%86%E6%9E%90)
+	* [遗传算法](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95)
 
 ### 数学建模算法思维导图
 * [思维导图](https://github.com/zhanwen/MathModel/tree/master/Mind)
