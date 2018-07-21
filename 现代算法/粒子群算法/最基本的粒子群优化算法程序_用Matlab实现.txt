@@ -1,0 +1,230 @@
+
+这个程序就是最基本的粒子群优化算法程序，用Matlab实现，非常简单。只有几十行代码。正所谓一分钱一分货啊，优化效果不总是令人满意。我还有几个改进的粒子群优化算法版本。
+
+    下面是主函数的源程序，优化函数则以m文件的形式放在fitness.m里面，对不同的优化函数只要修改fitness.m就可以了通用性很强。
+
+    主函数源程序（main.m）
+
+ 
+
+%------基本粒子群优化算法（Particle Swarm Optimization）-----------
+
+%------名称：基本粒子群优化算法（PSO）
+
+%------作用：求解优化问题
+
+%------说明：全局性，并行性，高效的群体智能算法
+
+%------作者：孙明杰（dreamsun2001@126.com）
+
+%------单位：中国矿业大学理学院计算数学硕2005
+
+%------时间：2006年8月17日<CopyRight@dReAmsUn>
+
+
+
+%------初始格化---------------
+
+clear all;
+
+clc;
+
+format long;
+
+%------给定初始化条件-------------------
+
+c1=1.4962;             %学习因子1
+
+c2=1.4962;             %学习因子2
+
+w=0.7298;              %惯性权重
+
+MaxDT=1000;            %最大迭代次数
+
+D=10;                  %搜索空间维数（未知数个数）
+
+N=40;                  %初始化群体个体数目
+
+eps=10^(-6);           %设置精度(在已知最小值时候用)
+
+%------初始化种群的个体(可以在这里限定位置和速度的范围)------------
+
+for i=1:N
+
+    for j=1:D
+
+        x(i,j)=randn;  %随机初始化位置
+
+        v(i,j)=randn;  %随机初始化速度
+
+    end
+
+end
+
+%-----------先计算各个粒子的适应度，并初始Pi和Pg-----------
+
+for i=1:N
+
+    p(i)=fitness(x(i,:),D);
+
+    y(i,:)=x(i,:);
+
+end
+
+pg=x(1,:);             %Pg为全局最优
+
+for i=2:N
+
+    if fitness(x(i,:),D)<fitness(pg,D)
+
+        pg=x(i,:);
+
+    end
+
+end
+
+%------进入主要循环，按照公式依次迭代，直到满足精度要求------------
+
+for t=1:MaxDT
+
+    for i=1:N
+
+        v(i,:)=w*v(i,:)+c1*rand*(y(i,:)-x(i,:))+c2*rand*(pg-x(i,:));实现速度的更新
+
+        x(i,:)=x(i,:)+v(i,:);实现位置的更新
+
+        if fitness(x(i,:),D)<p(i)%判断当此时的位置是否为最优的情况，当不满足时继续更新
+
+            p(i)=fitness(x(i,:),D);
+
+            y(i,:)=x(i,:);
+
+        end
+
+        if p(i)<fitness(pg,D)
+
+            pg=y(i,:);
+
+        end
+
+    end
+
+    Pbest(t)=fitness(pg,D);
+
+end
+
+%------最后从所得到的结果中取出最优的解
+
+disp('*************************************************************')
+
+disp('函数的全局最优位置为：')
+
+Solution=pg'
+
+disp('最后得到的优化极值为：')
+
+Result=fitness(pg,D)
+
+disp('*************************************************************')
+
+%------算法结束---DreamSun GL & HF,适应度函数源程序（fitness.m）------------
+
+
+function result=fitness(x,D)
+
+sum=0;
+
+for i=1:D
+
+    sum=sum+x(i)^2;
+
+end
+
+result=sum;
+
+
+
+%下面是一个最基本的pso算法解决函数极值问题，如果是一些大型的问题，需要对速度、惯性常数、和自适应变异做进一步优化，希望对你有帮助
+
+function y = fun(x)%--------X是不是粒子群的粒子最开始位置，请验证------------
+y=-20*exp(-0.2*sqrt((x(1)^2+x(2)^2)/2))-exp((cos(2*pi*x(1))+cos(2*pi*x(2)))/2)+20+2.71289;
+%下面是主程序
+%% 清空环境
+clc
+clear
+
+%% 参数初始化
+%粒子群算法中的两个参数
+c1 = 1.49445;
+c2 = 1.49445;
+
+maxgen=200;   % 进化次数  
+sizepop=20;   %种群规模
+
+Vmax=1;%速度限制
+Vmin=-1;
+popmax=5;%种群限制
+popmin=-5;
+
+%% 产生初始粒子和速度
+for i=1:sizepop
+    %随机产生一个种群
+    pop(i,:)=5*rands(1,2);    %初始种群
+    V(i,:)=rands(1,2);  %初始化速度
+    %计算适应度
+    fitness(i)=fun(pop(i,:));   %染色体的适应度
+end
+
+%找最好的染色体
+[bestfitness bestindex]=min(fitness);
+zbest=pop(bestindex,:);   %全局最佳
+gbest=pop;    %个体最佳
+fitnessgbest=fitness;   %个体最佳适应度值
+fitnesszbest=bestfitness;   %全局最佳适应度值
+
+%% 迭代寻优
+for i=1:maxgen
+    
+    for j=1:sizepop
+        
+        %速度更新
+        V(j,:) = V(j,:) + c1*rand*(gbest(j,:) - pop(j,:)) + c2*rand*(zbest - pop(j,:));
+        V(j,find(V(j,:)>Vmax))=Vmax;
+        V(j,find(V(j,:)<Vmin))=Vmin;
+        
+        %种群更新
+        pop(j,:)=pop(j,:)+0.5*V(j,:);
+        pop(j,find(pop(j,:)>popmax))=popmax;
+        pop(j,find(pop(j,:)<popmin))=popmin;
+        
+        %自适应变异（避免粒子群算法陷入局部最优）
+        if rand>0.8
+            k=ceil(2*rand);%ceil朝正无穷大方向取整
+            pop(j,k)=rand;
+        end
+      
+        %适应度值
+        fitness(j)=fun(pop(j,:));
+        
+        
+        %个体最优更新
+        if fitness(j) < fitnessgbest(j)
+            gbest(j,:) = pop(j,:);
+            fitnessgbest(j) = fitness(j);
+        end
+        
+        %群体最优更新
+        if fitness(j) < fitnesszbest
+            zbest = pop(j,:);
+            fitnesszbest = fitness(j);
+        end
+        
+    end
+    yy(i)=fitnesszbest;    
+        
+end
+
+%% 结果分析， 并且实现了绘图的功能
+plot(yy)
+title(['适应度曲线  ' '终止代数＝' num2str(maxgen)]);
+xlabel('进化代数');ylabel('适应度');
