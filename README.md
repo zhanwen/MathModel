@@ -117,6 +117,10 @@
 	* [小波分析](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E5%B0%8F%E6%B3%A2%E5%88%86%E6%9E%90)
 	* [遗传算法](https://github.com/zhanwen/MathModel/tree/master/%E7%8E%B0%E4%BB%A3%E7%AE%97%E6%B3%95/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95)
 
+### 教材及课件
+* [国防科技术大学](https://github.com/zhanwen/MathModel/tree/master/%E6%95%99%E6%9D%90%E5%8F%8A%E8%AF%BE%E4%BB%B6/%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6)
+* [浙江大学课件](https://github.com/zhanwen/MathModel/tree/master/%E6%95%99%E6%9D%90%E5%8F%8A%E8%AF%BE%E4%BB%B6/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E8%AF%BE%E4%BB%B6/PPT%E8%AF%BE%E4%BB%B6)
+
 ### 数学建模算法思维导图
 * [思维导图](https://github.com/zhanwen/MathModel/tree/master/Mind)
 
