@@ -1,11 +1,15 @@
 # 数学建模资源
 
-### 下载与使用
+### 下载与使用（由于整个项目直接下载比较慢，可以看方式三）
 * 方式一：使用 `git` 下载。   
 `git clone https://github.com/zhanwen/MathModel.git`
 
 * 方式二：直接下载压缩包。  
 <img src="./images/downloaddemo.gif" height="250" width="500" align=center />
+
+* 方式三（推荐）
+	* 可以单个文件下载，选择自己需要的某篇论文，直接在对应的页面点击下载即可。
+<img src="./images/download3.gif" height="250" width="500" align=center />
 
 ### 国赛论文
 * [2017年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2017%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)
