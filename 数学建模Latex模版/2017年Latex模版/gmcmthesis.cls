@@ -345,7 +345,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 \let\@evenfoot\@oddfoot%
     \def\@evenhead{\vbox{%
             \vskip 3.2mm%
-            \hbox to \textwidth {\hfill\small\heiti “华为杯”第十四届中国研究生数学建模竞赛\qquad \smash{\includegraphics{logo2}} \hfill}%
+            \hbox to \textwidth {\hfill\small\heiti “xxx”第十五届中国研究生数学建模竞赛\qquad \smash{\includegraphics{logo2}} \hfill}%
 			\vskip 1.5mm%
             \hrule width\textwidth height0.12 true mm\vskip0.85pt%
         }%
@@ -482,7 +482,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 	\gdef\thesection{\appendixname\@Alph\c@section}}		
 % 重定义参考文献环境
 \renewenvironment{thebibliography}[1]
-     {\section*{\refname}%
+     {%\section*{\refname}%
       \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}%
       \list{\@biblabel{\@arabic\c@enumiv}}%
            {\settowidth\labelwidth{\@biblabel{#1}}%
@@ -555,7 +555,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 \newcommand*\mcm@commit@string@headname{赛区评阅编号（由赛区组委会填写）：}
 \newcommand*\mcm@commit@string@titlea{\the\year 高教社杯全国大学生数学建模竞赛}
 \newcommand*\mcm@commit@string@titleb{承\hspace{1em}诺\hspace{1em}书}
-\newcommand\mcm@ges@string@contents{“华为杯”第十四届全国研究生\par 数学建模竞赛}
+\newcommand\mcm@ges@string@contents{“xxx”第十五届全国研究生\par 数学建模竞赛}
 \newcommand\mcm@commit@string@contents{\quotation
  我们仔细阅读了《全国大学生数学建模竞赛章程》和《全国大学生数学建模竞赛参赛规则》%
 \hspace*{-0.6em}（以下简称为“竞赛章程和参赛规则”，\hspace{-0.2em}可从全国大学生数学建模竞赛网站下载）。

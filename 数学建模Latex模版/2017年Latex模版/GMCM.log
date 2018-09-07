@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.4.25)  7 AUG 2018 16:08
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.4.25)  7 SEP 2018 22:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1542,7 +1542,11 @@ Package: xeCJK-listings 2017/05/15 v3.4.8 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count271
 \l__xeCJK_listings_flag_int=\count272
 )
-(./GMCM.aux)
+(./GMCM.aux
+
+LaTeX Warning: Label `bib:two' multiply defined.
+
+)
 \openout1 = `GMCM.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -1783,24 +1787,23 @@ Overfull \vbox (11.20946pt too high) has occurred while \output is active []
 File: figures/logo.jpg Graphic file (type QTm)
  <use  "figures/logo.jpg" >
 File: figures/gongzhonghao.jpg Graphic file (type QTm)
- <use  "figures/gongzhonghao.jpg" > [2]
+ <use  "figures/gongzhonghao.jpg" > [2] [3]
 (./GMCM.toc)
 \tf@toc=\write4
 \openout4 = `GMCM.toc'.
 
- [3]
-Overfull \hbox (6.44263pt too wide) in paragraph at lines 69--81
+ [4] [5] [6]
+Overfull \hbox (6.44263pt too wide) in paragraph at lines 97--103
 [][] 
  []
 
-[4]
-File: figures/1.png Graphic file (type QTm)
- <use  "figures/1.png" >
+File: figures/gongzhonghao.jpg Graphic file (type QTm)
+<use  "figures/gongzhonghao.jpg" >
 
 LaTeX Font Warning: Font shape `TU/STSong(1)/bx/n' undefined
-(Font)              using `TU/STSong(1)/m/n' instead on input line 99.
+(Font)              using `TU/STSong(1)/m/n' instead on input line 110.
 
-[5] (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+[7] (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 *************************************************
@@ -1835,19 +1838,22 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 . - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-[6] (./GMCM.aux)
+[8] (./GMCM.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
 
  )
 (\end occurred when \iftrue on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 25184 strings out of 493005
- 490975 string characters out of 6134596
- 541623 words of memory out of 5000000
- 28798 multiletter control sequences out of 15000+600000
+ 25157 strings out of 493005
+ 489429 string characters out of 6134596
+ 539771 words of memory out of 5000000
+ 28773 multiletter control sequences out of 15000+600000
  11555 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 64i,12n,69p,10436b,1595s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,12n,69p,10436b,1597s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on GMCM.pdf (6 pages).
+Output written on GMCM.pdf (8 pages).
