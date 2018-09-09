@@ -172,4 +172,5 @@
    
 ### 联系
 * Email：[hanwenme@gmail.com](https://mail.google.com/)
-* 微&nbsp;&nbsp;信：可以通过公众号获取
+* 微&nbsp;&nbsp;信（有任何问题都可以直接怼我）：  
+<img src="images/donate/wechat.png" width="150" height="150" alt="pay check"/>
