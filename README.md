@@ -1,5 +1,7 @@
 # 数学建模资源
 
+### 祝大家比赛开心 （^_^）
+
 ### 下载与使用（由于整个项目直接下载比较慢，可以看方式四）
 * 方式一：使用 `git` 下载。   
 `git clone https://github.com/zhanwen/MathModel.git`
