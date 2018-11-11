@@ -40,6 +40,14 @@
 
 
 ### 国赛论文
+* [2018年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2018%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)
+	* [A题：关于跳台跳水体型系数设置的建模分析](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2018%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/A)
+	* [B题：光传送网建模与价值评估](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2018%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/B)
+	* [C题：对恐怖袭击事件记录数据的量化分析](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2018%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/C)
+	* [D题：基于卫星高度计海面高度异常资料获取潮汐调和常数方法及应用](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2018%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/D)
+	* [E题：多无人机对组网雷达的协同干扰](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2018%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/E)
+	* [F题：航站楼扩增评估](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2018%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/F)
+
 * [2017年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2017%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)
 	* [A题：无人机在抢险救灾中的优化运用](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2017%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/A)
 	* [B题：面向下一代光通信的 VCSEL 激光器仿真模型](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2017%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/B)
