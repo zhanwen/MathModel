@@ -174,7 +174,7 @@
 
 ### 个人微信公众号
 * `dotzhang`：一名不羁的学僧，我的世界不只有学术。一条迷途的咸鱼，正在游向属于它的天地！  
-<img src="https://user-images.githubusercontent.com/11382789/42730782-0ff114d4-8830-11e8-8b3f-ffe572de8575.jpg" width="150" height="150" alt="weixin"/>
+<img src="/images/donate/common.jpg" width="150" height="150" alt="weixin"/>
 
 
 ### 赞助和支持
