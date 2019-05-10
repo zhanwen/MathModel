@@ -3,6 +3,12 @@
 ### 2018.9.15 祝大家比赛开心 （^_^）
 ### 2018.9.19 比赛已经结束，大家耐心等待获奖吧（^o^）
 #### 2018.11.11 比赛结果经过一个半月的评审，终于在昨天公布了[获奖名单](https://github.com/zhanwen/MathModel/tree/master/2018%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)，大家的努力相信都会有所收获。余生还有很多有意义的事情需要我们去做，让我们一起努力。(o^^o)
+<hr>
+#### 更新/添加比赛官网地址[戳这里](https://cpipc.chinadegrees.cn/#)
+* [数学建模竞赛](https://cpipc.chinadegrees.cn/cw/hp/4)
+* [电子设计竞赛](https://cpipc.chinadegrees.cn/cw/hp/6)
+* [人工智能创新大赛](https://cpipc.chinadegrees.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd)
+* [机器人创新设计大赛](https://cpipc.chinadegrees.cn/cw/hp/2c9088a5696cbf370169a3f8934810be)
 
 <hr/>
 
