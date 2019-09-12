@@ -1,9 +1,15 @@
 # 数学建模资源
 ### 2019 年研究生数模
+#### 论文模版更新
+*LaTex 论文模版：* [**LaTex 论文模版**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/2019%E5%B9%B4Latex%E6%A8%A1%E7%89%88.zip)  
+*Word 论文模版：* [**Word 论文模版**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/%E2%80%9C%E5%8D%8E%E4%B8%BA%E6%9D%AF%E2%80%9D%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AE%BA%E6%96%87%E6%A0%BC%E5%BC%8F%E8%A7%84%E8%8C%83.doc)  
+#### 下载方式(仓库比较大，建议单个文件下载)  
+<img src="./images/downloaddemo2.gif" height="250" width="500" align="center" />
+<hr>  
 *主题：* [**“华为杯”第十六届中国研究生数学建模竞赛**](https://cpipc.chinadegrees.cn/cw/hp/4)  
 *报名时间：* **2019年6月1日8:00——9月10日17:00**  
 *审核时间：* **2019年6月1日8:00——9月12日17:00**   
-*交费时间：* **2019年7月1日8:00——9月15日17:00** （每队 300 元，可开发票）   
+*交费时间：* **2019年7月1日8:00——9月15日17:00**    
 *比赛时间：* **2019年9月19日8:00——9月23日12:00**    
 #### 官网报名地址：[官网地址](https://cpipc.chinadegrees.cn/cw/hp/4)
 
