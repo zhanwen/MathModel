@@ -8,15 +8,18 @@
 	>&nbsp;&nbsp;&nbsp;&nbsp;— MathModel.synct.ex.gz  
 	>&nbsp;&nbsp;&nbsp;&nbsp;— MathModel.tex  
 	>&nbsp;&nbsp;&nbsp;&nbsp;— gmcmthesis.cls  
-	>&nbsp;&nbsp;&nbsp;&nbsp;— MathModel.pdf
+	>&nbsp;&nbsp;&nbsp;&nbsp;— MathModel.pdf   
+	>&nbsp;&nbsp;&nbsp;&nbsp;— .DS_Store（这个文件可以直接删除）   
+	>
+	>_MACOSX（这个文件可以直接删除）
 
 	目录说明：
 	> figure 文件夹存放图片，tex 中使用的图片都可以放到这个文件夹里。图片格式可以是（eps、pdf、png、jpg），这里推荐使用矢量图（eps）。 
-	 
+	>
 	> MathModel.tex 这个文件是最重要的，是存放内容的文件，论文内容全部写到这个文件，具体格式可以参考里面已有的内容。
-	
+	>
 	> MathModel.pdf 是编译之后的文件，这个文件是由 MathModel.tex 编译出 pdf 文件。
-	
+	>
 	> gmcmthesis.cls、MathModel.synct.ex.gz 这两个文件暂时不会用到，不用管。
 3. 如何编译  
 	> 要使用 LaTex，需要两样东西，分别是编译器和编辑器。如果电脑上没有编译器的话，需要去下载。而编辑器基本上电脑都已经有，比如（sublime、notepad、texmaker）。  
