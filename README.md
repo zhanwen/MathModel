@@ -3,10 +3,11 @@
 #### 论文模版更新
 *LaTex 论文模版：* [**LaTex 论文模版**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/2019%E5%B9%B4Latex%E6%A8%A1%E7%89%88.zip)  
 *Word 论文模版：* [**Word 论文模版**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/%E2%80%9C%E5%8D%8E%E4%B8%BA%E6%9D%AF%E2%80%9D%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AE%BA%E6%96%87%E6%A0%BC%E5%BC%8F%E8%A7%84%E8%8C%83.doc)  
+*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/tree/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/latex_note.md)
 #### 下载方式(仓库比较大，建议单个文件下载)  
 
-<img src="./images/downloaddemo2.gif" />
-
+<img src="./images/downloaddemo2.gif" /> 
+ 
 <hr>  
 
 *主题：* [**“华为杯”第十六届中国研究生数学建模竞赛**](https://cpipc.chinadegrees.cn/cw/hp/4)  
