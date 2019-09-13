@@ -26,7 +26,7 @@
 
 	编译器，推荐下载 CTeX。
 	> Windows 版本 [**ctex 清华镜像下载**](https://mirrors.tuna.tsinghua.edu.cn/ctex/legacy/2.9/)，选择最大的那个文件下载。
-	
+	>
 	> Mac 版本 [**MacTex 下载**](http://tug.org/~koch/MacTeX-2019.pkg)，文件比较大，耐心下载，下载完后默认安装即可。
 
 	编辑器，推荐（texmaker、sublime）
@@ -39,3 +39,7 @@
 	> <img src="./images/tex_use.gif"/> 
 	>
 	> 3、编译完成后，打开文件夹（与 MathModel.tex 文件同一个目录下），会发现已经生成对应的 pdf 文件，当然生成的不止是 pdf 文件，还会生成其它相关文件，比如日志文件之类的，其它文件不需要操作。需要的只有 pdf 文件。
+5. 关于编译时出现问题
+	> 1、如果编译报错，提示字体没有发现，那么去网上下载对应的字体安装即可，下载的字体文件一般是（.ttf）可以直接安装使用。可能会碰倒没有发现华文新魏字体（STxinwei），这个是目前遇到过的一个问题，安装对应的字体可以解决。其它问题暂为发现，如果有遇到请下载 Issue 里面提出。
+	>
+	> **遇到问题请提交到 Issue** [发现问题请点击我](https://github.com/zhanwen/MathModel/issues)
