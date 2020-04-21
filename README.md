@@ -1,6 +1,8 @@
 # 数学建模资源
 ## 更新模块
 * 2019年“华为杯”第十六届中国研究生数学建模竞赛——**选题、命题介绍分析：** [**选题、命题介绍分析**](https://github.com/zhanwen/MathModel/blob/master/%E9%80%89%E9%A2%98%E3%80%81%E5%91%BD%E9%A2%98%E4%BB%8B%E7%BB%8D%E5%88%86%E6%9E%90.md)
+* 同步所有文件到**[百度云网盘](https://pan.baidu.com/s/1ulWbVbbwwDh-1TPIBBtjlQ)**，key:`46et`（2020年4月21日）
+* [学习交流群](https://github.com/zhanwen/MathModel/blob/master/images/study.jpeg)（注：满了以后加wx`c3loaWx5aHc=`）
 
 ## 2019 年研究生数模
 #### 2019.11.11 又是双十一，比赛结果经过一个半月的评审，在这一天公布了[获奖名单](2019%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)，大家的努力相信都会有所收获。余生还有很多有意义的事情需要我们去做，让我们一起努力。(o^o)
@@ -53,7 +55,7 @@
 
 * 方式四：百度云下载（推荐）
 	* 使用百度云下载，正常的客户端会出现限速，导致下载的很慢，这里给大家推荐一个绕过百度云下载限速的方式。具体怎么下载，请参照 [绕过限速](https://github.com/iikira/BaiduPCS-Go)。
-	* 该项目的百度云链接 [https://pan.baidu.com/s/1UnngHxNR0EVoyBpKlPxFAw](https://pan.baidu.com/s/1UnngHxNR0EVoyBpKlPxFAw)，密码：`ea2n`
+	* 该项目的百度云链接 [https://pan.baidu.com/s/1wcCcc8pICGx5mBiwP6jwnw](https://pan.baidu.com/s/1wcCcc8pICGx5mBiwP6jwnw)，密码：`7sog`
 
 ### 国赛试题
 * [2019年研究生数学建模竞赛试题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2019%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)
