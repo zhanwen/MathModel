@@ -1,7 +1,7 @@
 # 数学建模资源
 ## 更新模块
 * 2019年“华为杯”第十六届中国研究生数学建模竞赛——**选题、命题介绍分析：** [**选题、命题介绍分析**](https://github.com/zhanwen/MathModel/blob/master/%E9%80%89%E9%A2%98%E3%80%81%E5%91%BD%E9%A2%98%E4%BB%8B%E7%BB%8D%E5%88%86%E6%9E%90.md)
-* 同步所有文件到**[百度云网盘](https://pan.baidu.com/s/1ulWbVbbwwDh-1TPIBBtjlQ)**，key:`46et`（2020年4月21日）
+* 同步所有文件到 **[百度云网盘](https://pan.baidu.com/s/1ulWbVbbwwDh-1TPIBBtjlQ) **，key:`46et`（2020年4月21日）
 * [学习交流群](https://github.com/zhanwen/MathModel/blob/master/images/study.jpeg)（注：满了以后加wx`c3loaWx5aHc=`）
 
 ## 2019 年研究生数模
