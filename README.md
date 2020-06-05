@@ -4,6 +4,24 @@
 * 同步所有文件到[百度云网盘](https://pan.baidu.com/s/1ulWbVbbwwDh-1TPIBBtjlQ)，key:`46et`（2020年4月21日）
 * [学习交流群，其它勿扰](https://github.com/zhanwen/MathModel/blob/master/images/study.md)
 
+## 2020 年研究生数模
+
+#### 论文提交（MD5使用方法）
+*MD5文件校验和使用说明：* [**MD5文件校验和使用说明**](https://github.com/zhanwen/MathModel/blob/master/MD5%E6%96%87%E4%BB%B6%E6%A0%A1%E9%AA%8C%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+#### 论文模版更新
+ 
+*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/tree/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/latex_note.md)
+ 
+<hr>  
+
+*主题：* [**“华为杯”第十七届中国研究生数学建模竞赛**](https://cpipc.chinadegrees.cn/cw/hp/4)（今年不允许跨校组队，大家注意一下。）  
+*报名时间：* **2020年6月1日8:00——9月10日17:00**  
+*审核时间：* **2020年6月1日8:00——9月13日17:00**   
+*交费时间：* **2020年7月1日8:00——9月14日17:00**    
+*比赛时间：* **2020年9月17日8:00——9月21日12:00**    
+#### 官网报名地址：[官网地址](https://cpipc.chinadegrees.cn/cw/hp/4)
+
+<hr>  
 
 ## 2019 年研究生数模
 #### 2019.11.11 又是双十一，比赛结果经过一个半月的评审，在这一天公布了[获奖名单](2019%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)，大家的努力相信都会有所收获。余生还有很多有意义的事情需要我们去做，让我们一起努力。(o^o)
