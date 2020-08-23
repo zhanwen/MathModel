@@ -1,6 +1,6 @@
 # 数学建模资源
 ## 更新模块
-* 更新 **[2019 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2019%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2020年7月21日）
+* 更新 **[2019 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2019%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2020年7月21日）[⏬下载链接](https://pan.baidu.com/s/1xt8R7ad_o7zBEZGZvqA3MA)，key:`2uyl`
 * 2019年“华为杯”第十六届中国研究生数学建模竞赛——**选题、命题介绍分析：** [**选题、命题介绍分析**](https://github.com/zhanwen/MathModel/blob/master/%E9%80%89%E9%A2%98%E3%80%81%E5%91%BD%E9%A2%98%E4%BB%8B%E7%BB%8D%E5%88%86%E6%9E%90.md)
 * 同步所有文件到[百度云网盘](https://pan.baidu.com/s/1BUb6p4NBY7p8JJ_HZgUENg)，key:`kpig`（2020年6月24日）
 * 百度云备用链接1: [点击下载](https://pan.baidu.com/s/1xO0f2uxB2iANftfnoSvhkw)，key:`j30e`
