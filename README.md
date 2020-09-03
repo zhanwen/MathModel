@@ -76,7 +76,7 @@
 <img src="./images/download3.gif" height="250" width="500" align=center />
 
 * 方式四：百度云下载（推荐）
-	* 使用百度云下载，正常的客户端会出现限速，导致下载的很慢，这里给大家推荐一个绕过百度云下载限速的方式。具体怎么下载，请参照 [绕过限速](https://github.com/iikira/BaiduPCS-Go)。
+	* 使用百度云下载，正常的客户端会出现限速，导致下载的很慢，这里给大家推荐一个绕过百度云下载限速的方式。具体怎么下载，请参照 [绕过限速](https://github.com/GangZhuo/BaiduPCS)。
 	* 该项目的百度云链接 [https://pan.baidu.com/s/1wcCcc8pICGx5mBiwP6jwnw](https://pan.baidu.com/s/1wcCcc8pICGx5mBiwP6jwnw)，密码：`7sog`
 
 ### 国赛试题
