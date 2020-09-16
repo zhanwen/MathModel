@@ -252,6 +252,6 @@
    
 ### 联系
 * Email：[hanwenme@gmail.com](https://mail.google.com/)
-* 微&nbsp;&nbsp;信（有任何问题都可以直接怼我）：  
+* 微&nbsp;&nbsp;信:`syhilyhw`（有任何问题都可以直接怼我，加的时候备注说明一下）：  
 <img src="images/donate/wechat.png" width="150" height="150" alt="pay check"/>
 
