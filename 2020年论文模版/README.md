@@ -53,4 +53,6 @@
 5. 关于编译时出现问题
 	> 1、如果编译报错，提示字体没有发现，那么去网上下载对应的字体安装即可，下载的字体文件一般是（.ttf）可以直接安装使用。可能会碰倒没有发现华文新魏字体（STxinwei），这个是目前遇到过的一个问题，安装对应的字体可以解决。其它问题暂未发现，如果有遇到请在 Issue 里面提出。
 	>
+	> **[字体下载链接](https://github.com/zhanwen/MathModel/tree/master/2020%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/Font)**
+	>
 	> **遇到问题请提交到 Issue** [发现问题请点击我](https://github.com/zhanwen/MathModel/issues)
