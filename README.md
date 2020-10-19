@@ -1,5 +1,8 @@
 # 数学建模资源
 ## 更新模块 
+####<font color='red'>预告一下，按照往年成绩公布时间，应该是在双十一那天。要么喜上加喜，要么少买点东西 (o^^o)。</font>
+</hr>
+
 * 更新 **[2020年论文模版](https://github.com/zhanwen/MathModel/tree/master/2020%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**（包括 word 版本、Latex 版本） 
 * 更新 **[2019 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2019%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2020年7月21日）[⏬下载链接](https://pan.baidu.com/s/1xt8R7ad_o7zBEZGZvqA3MA)，key:`2uyl`
 * 2019年“华为杯”第十六届中国研究生数学建模竞赛——**选题、命题介绍分析：** [**选题、命题介绍分析**](https://github.com/zhanwen/MathModel/blob/master/%E9%80%89%E9%A2%98%E3%80%81%E5%91%BD%E9%A2%98%E4%BB%8B%E7%BB%8D%E5%88%86%E6%9E%90.md)
