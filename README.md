@@ -1,6 +1,6 @@
 # 数学建模资源
 ## 更新模块 
-####<font color='red'>预告一下，按照往年成绩公布时间，应该是在双十一那天。要么喜上加喜，要么少买点东西 (o^^o)。</font>
+#### <font color='red'>预告一下，按照往年成绩公布时间，应该是在双十一那天。要么喜上加喜，要么少买点东西 (o^^o)。</font>
 </hr>
 
 * 更新 **[2020年论文模版](https://github.com/zhanwen/MathModel/tree/master/2020%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**（包括 word 版本、Latex 版本） 
