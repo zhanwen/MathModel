@@ -7,10 +7,10 @@
 * 更新 **[2020年论文模版](https://github.com/zhanwen/MathModel/tree/master/2020%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**（包括 word 版本、Latex 版本） 
 * 更新 **[2019 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2019%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2020年7月21日）[⏬下载链接](https://pan.baidu.com/s/1xt8R7ad_o7zBEZGZvqA3MA)，key:`2uyl`
 * 2019年“华为杯”第十六届中国研究生数学建模竞赛——**选题、命题介绍分析：** [**选题、命题介绍分析**](https://github.com/zhanwen/MathModel/blob/master/%E9%80%89%E9%A2%98%E3%80%81%E5%91%BD%E9%A2%98%E4%BB%8B%E7%BB%8D%E5%88%86%E6%9E%90.md)
-* 同步所有文件到[百度云网盘](https://pan.baidu.com/s/1BUb6p4NBY7p8JJ_HZgUENg)，key:`kpig`（2020年6月24日）
-* 百度云备用链接1: [点击下载](https://pan.baidu.com/s/1xO0f2uxB2iANftfnoSvhkw)，key:`j30e`
-* 百度云备用链接2: [点击下载](https://pan.baidu.com/s/1veA_hrx1oiFu41FdXtLj3A)，key:`vmvm`
-* 百度云备用链接3: [点击下载](https://pan.baidu.com/s/1VgYqgORRgEOiAKNfOh4pGQ)，key:`sh88`
+* 同步所有文件到[百度云网盘](https://pan.baidu.com/s/1dOl-MRXtkLBU2l_UWPpYdA)，key:`bxdy`（2020年6月24日）
+* 百度云备用链接1: [点击下载](https://pan.baidu.com/s/1t6KIxwGky0p_1STrIxOQMQ)，key:`0rm9`
+* 百度云备用链接2: [点击下载](https://pan.baidu.com/s/1nO2oCk2_Dt8ED7Ff1IZ61w)，key:`5s6y`
+* 百度云备用链接3: [点击下载](https://pan.baidu.com/s/1eOq1-YcU3OGvlsenNQrmXw)，key:`29vl`
 
 ## 2020 年研究生数模
 
