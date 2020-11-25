@@ -1,5 +1,8 @@
 # 数学建模资源
 
+#### 2020.11.24 今年比去年晚两个礼拜，比赛结果经过一个半月的评审，在这一天公布了[获奖名单](https://github.com/zhanwen/MathModel/tree/master/2020%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)，大家的努力相信都会有所收获。余生还有很多有意义的事情需要我们去做，让我们一起努力吧。(o^o)
+
+
 #### <font color='red'>预告一下，按照往年成绩公布时间，应该是在双十一那天。要么喜上加喜，要么少买点东西 (o^^o)。</font>
 </hr>
 
@@ -14,7 +17,6 @@
 * 百度云备用链接3: [点击下载](https://pan.baidu.com/s/1eOq1-YcU3OGvlsenNQrmXw)，key:`29vl`
 
 ## 2020 年研究生数模
-
 #### 论文提交（MD5使用方法）
 *MD5文件校验和使用说明：* [**MD5文件校验和使用说明**](https://github.com/zhanwen/MathModel/blob/master/MD5%E6%96%87%E4%BB%B6%E6%A0%A1%E9%AA%8C%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 #### 论文模版更新
