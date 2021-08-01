@@ -86,6 +86,7 @@
 * 方式四：百度云下载（推荐）
 	* 使用百度云下载，正常的客户端会出现限速，导致下载的很慢，这里给大家推荐一个绕过百度云下载限速的方式。具体怎么下载，请参照 [绕过限速](https://github.com/GangZhuo/BaiduPCS)。
 	* 该项目的百度云链接 [https://pan.baidu.com/s/1wcCcc8pICGx5mBiwP6jwnw](https://pan.baidu.com/s/1wcCcc8pICGx5mBiwP6jwnw)，密码：`7sog`
+	* **更新：这个链接失效没影响，直接访问这个网址[绕过限速](https://github.com/GangZhuo/BaiduPCS)，看 README 部分，有针对不同操作系统安装方法，根据自己的操作系统安装即可，大部分方式都是将项目git clone，在后续。**
 
 ### 国赛试题
 * [2020年研究生数学建模竞赛试题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2020%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)
