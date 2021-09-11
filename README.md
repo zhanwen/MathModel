@@ -16,13 +16,15 @@
 ## 2021 年研究生数模 
 *MD5文件校验和使用说明：* [**论文提交（MD5使用方法）**](https://github.com/zhanwen/MathModel/blob/master/MD5%E6%96%87%E4%BB%B6%E6%A0%A1%E9%AA%8C%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
-*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/tree/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/latex_note.md)
+*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)
 
 *主题：* [**“华为杯”第十八届中国研究生数学建模竞赛**](https://cpipc.acge.org.cn/cw/hp/4)（只允许2021级跨校组队，大家注意一下。）  
-*报名时间：* **2021年6月1日8:00——9月10日17:00**  
-*审核时间：* **2021年6月1日8:00——9月12日17:00**   
-*交费时间：* **2021年6月6日8:00——9月13日17:00**    
-*比赛时间：* **2021年9月16日8:00——9月20日12:00**    
+<font color='red'>引用官网原文：由于今年的新冠疫情形势导致部分高校的工作安排较往年同期有一定变化，教学科研进度也相应作出调整。为让意向参赛的师生有更加充裕的时间报名、备赛，经研究决定，现对原定的各时间节点予以延期。</font>[延期举办等相关事宜的通知](https://cpipc.acge.org.cn//cw/detail/4/2c9080127bca23bf017bca55e4060317)
+
+*报名时间：* <del>**2021年6月1日8:00——9月10日17:00**</del> <font color='red'>截止：2021年10月8日17:00</font>  
+*审核时间：* <del>**2021年6月1日8:00——9月12日17:00**</del>   <font color='red'>截止：2021年10月10日17:00</font>  
+*交费时间：* <del>**2021年6月6日8:00——9月13日17:00**</del>   <font color='red'>截止：2021年10月11日17:00</font>  
+*比赛时间：* <del>**2021年9月16日8:00——9月20日12:00**</del>  <font color='red'>2021年10月14日8:00——10月18日12:00</font>  
 #### 官网报名地址：[官网地址](https://cpipc.acge.org.cn/cw/hp/4)
 <hr>  
 
@@ -37,7 +39,7 @@
 *MD5文件校验和使用说明：* [**MD5文件校验和使用说明**](https://github.com/zhanwen/MathModel/blob/master/MD5%E6%96%87%E4%BB%B6%E6%A0%A1%E9%AA%8C%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 #### 论文模版更新
  
-*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/tree/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/latex_note.md)
+*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)
 
 *主题：* [**“华为杯”第十七届中国研究生数学建模竞赛**](https://cpipc.chinadegrees.cn/cw/hp/4)（今年不允许跨校组队，大家注意一下。）  
 *报名时间：* **2020年6月1日8:00——9月10日17:00**  
