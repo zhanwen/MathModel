@@ -2,6 +2,7 @@
 
 ## 更新模块 
 #### <font color='red'>
+* 更新 **[2021年论文模版](https://github.com/zhanwen/MathModel/tree/master/2021%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**（包括 word 版本、Latex 版本） 
 * 更新 </font>**[2020 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2020%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2021年8月21日）[⏬下载链接](https://pan.baidu.com/s/1NK3_QXdU6gPH27_gABMUIw)，key:`odt5`
 * --------以下是历史更新版本--------
 * 更新 **[2020年论文模版](https://github.com/zhanwen/MathModel/tree/master/2020%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**（包括 word 版本、Latex 版本） 
