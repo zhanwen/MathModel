@@ -1,15 +1,13 @@
 # 数学建模资源
 
 ## 更新模块 
-#### 2021.12.10 比赛结果公示，[获奖名单](https://github.com/zhanwen/MathModel/tree/master/2021%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
-#### 2021.10.14—2021.10.28 比赛已经结束，大家耐心等待获奖吧（(o^^o)）
-#### 2021.10.13 明天早八点开始，祝大家比赛开心 （^_^）
+* 更新 **[2022年研究生数模比赛通知](https://github.com/zhanwen/MathModel/tree/master/2021%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**
+* ----------------以下是历史更新版本----------------
 * 更新 **[2021年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2021%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**
 * 更新 **[2021年研究生数学建模竞赛试题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2021%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)**
 * 更新 **[2021年论文模版](https://github.com/zhanwen/MathModel/tree/master/2021%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**（包括 word 版本、Latex 版本） 
 * 更新 **[数学建模网论坛上提问](https://www.shumo.com/home/html/category/cpmcm)**（比赛期间，论坛解答）   
 * 更新 </font>**[2020 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2020%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2021年8月21日）[⏬下载链接](https://pan.baidu.com/s/1NK3_QXdU6gPH27_gABMUIw)，key:`odt5`
-* --------以下是历史更新版本--------
 * 更新 **[2020年论文模版](https://github.com/zhanwen/MathModel/tree/master/2020%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**（包括 word 版本、Latex 版本） 
 * 更新 **[2019 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2019%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2020年7月21日）[⏬下载链接](https://pan.baidu.com/s/1xt8R7ad_o7zBEZGZvqA3MA)，key:`2uyl`
 * 2019年“华为杯”第十六届中国研究生数学建模竞赛——**选题、命题介绍分析：** [**选题、命题介绍分析**](https://github.com/zhanwen/MathModel/blob/master/%E9%80%89%E9%A2%98%E3%80%81%E5%91%BD%E9%A2%98%E4%BB%8B%E7%BB%8D%E5%88%86%E6%9E%90.md)
@@ -19,7 +17,24 @@
 * 百度云备用链接2: [点击下载](https://pan.baidu.com/s/1nO2oCk2_Dt8ED7Ff1IZ61w)，key:`5s6y`
 * 百度云备用链接3: [点击下载](https://pan.baidu.com/s/1eOq1-YcU3OGvlsenNQrmXw)，key:`29vl`
 
+## 2022 年研究生数模 (新)
+*MD5文件校验和使用说明：* [**论文提交（MD5使用方法）**](https://github.com/zhanwen/MathModel/blob/master/MD5%E6%96%87%E4%BB%B6%E6%A0%A1%E9%AA%8C%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+
+*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)（Latex 模版一般在官方给出 word 模版后更新，时间大概在比赛前一星期左右）
+
+*主题：* [**“华为杯”第十九届中国研究生数学建模竞赛**](https://cpipc.acge.org.cn/cw/hp/4)（只允许2022级跨校组队，大家注意一下。）  
+
+*报名时间：* **2021年6月1日8:00——9月14日17:00**  
+*审核时间：* **2021年6月1日8:00——9月16日17:00**  
+*交费时间：* **2021年6月1日8:00——9月19日17:00**  
+*比赛时间：* **2021年9月22日8:00——9月26日12:00**  
+#### 官网报名地址：[官网地址](https://cpipc.acge.org.cn/cw/hp/4)
+<hr>  
+
 ## 2021 年研究生数模 
+#### 2021.12.10 比赛结果公示，[获奖名单](https://github.com/zhanwen/MathModel/tree/master/2021%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
+#### 2021.10.14—2021.10.28 比赛已经结束，大家耐心等待获奖吧（(o^^o)）
+#### 2021.10.13 明天早八点开始，祝大家比赛开心 （^_^）
 *MD5文件校验和使用说明：* [**论文提交（MD5使用方法）**](https://github.com/zhanwen/MathModel/blob/master/MD5%E6%96%87%E4%BB%B6%E6%A0%A1%E9%AA%8C%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
 *LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)
