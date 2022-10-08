@@ -1,6 +1,7 @@
 # 数学建模资源
 
 ## 更新模块 
+* 更新 **[2022年研究生数模比赛模版（Word/Latex）](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
 * 更新 </font>**[2021 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2021%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2022年6月25日）[⏬下载链接](https://pan.baidu.com/s/1j0rqd6tvKv4LxGRG0kUaKw)，key:`eyzf`
 * 更新 **[2022年研究生数模比赛通知](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
 * ----------------以下是历史更新版本----------------
