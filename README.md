@@ -20,6 +20,7 @@
 * 百度云备用链接3: [点击下载](https://pan.baidu.com/s/1eOq1-YcU3OGvlsenNQrmXw)，key:`29vl`
 
 ## 2022 年研究生数模 (新)
+#### 2022.10.6—2022.10.10 比赛已经结束，大家耐心等待获奖吧（(o^^o)）
 *MD5文件校验和使用说明：* [**论文提交（MD5使用方法）**](https://github.com/zhanwen/MathModel/blob/master/MD5%E6%96%87%E4%BB%B6%E6%A0%A1%E9%AA%8C%E5%92%8C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
 *LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)（Latex 模版一般在官方给出 word 模版后更新，时间大概在比赛前一星期左右）
