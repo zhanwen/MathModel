@@ -1,6 +1,7 @@
 # 数学建模资源
 
 ## 更新模块 
+* 更新 **[2023年数模建模 第二十届大赛]()**
 * 更新 **[2022年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**
 * 更新 **[2022年研究生数模比赛模版（Word/Latex）](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
 * 更新 </font>**[2021 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2021%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2022年6月25日）[⏬下载链接](https://pan.baidu.com/s/1j0rqd6tvKv4LxGRG0kUaKw)，key:`eyzf`
@@ -20,7 +21,21 @@
 * 百度云备用链接2: [点击下载](https://pan.baidu.com/s/1nO2oCk2_Dt8ED7Ff1IZ61w)，key:`5s6y`
 * 百度云备用链接3: [点击下载](https://pan.baidu.com/s/1eOq1-YcU3OGvlsenNQrmXw)，key:`29vl`
 
-## 2022 年研究生数模 (新)
+## 2023 年研究生数模 (新)
+*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)（Latex 模版一般在官方给出 word 模版后更新，时间大概在比赛前一星期左右）
+
+*主题：* [**“华为杯”第二十届中国研究生数学建模竞赛**](https://cpipc.acge.org.cn//cw/detail/4/)（只允许2023级跨校组队，大家注意一下。）  
+
+*报名时间：* **2023年6月1日8:00——9月19日17:00**  
+*审核时间：* **2023年6月1日8:00——9月21日17:00**   
+*交费时间：* **2023年6月1日8:00——9月21日17:00**     
+*比赛时间：* **2023年9月22日8:00——9月26日12:00**  
+*上传论文MD5码时间：* **2023年9月25日12:00——9月26日12:00**    
+*上传PDF格式论文时间：* **2023年9月26日14:00——9月27日24:00**
+#### 官网报名地址：[官网地址](https://cpipc.acge.org.cn//cw/detail/4/)
+<hr>  
+
+## 2022 年研究生数模
 #### 2022.12.30 比赛结果公示，[获奖名单](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
 
 #### 2022.10.6—2022.10.10 比赛已经结束，大家耐心等待获奖吧（(o^^o)）
