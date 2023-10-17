@@ -26,7 +26,7 @@
 *上传论文MD5码时间：* **2023年9月25日12:00——9月26日12:00**    
 *上传PDF格式论文时间：* **2023年9月26日14:00——9月27日24:00**
 #### 官网报名地址：[官网地址](https://cpipc.acge.org.cn/cw/hp/4)
-<hr>  
+<hr/>  
 [历年数模比赛时间表](https://github.com/zhanwen/MathModel/tree/master#%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%8E%86%E5%8F%B2%E6%9B%B4%E6%96%B0%E7%89%88%E6%9C%AC)
 <hr/>
 
