@@ -92,6 +92,14 @@
 
 
 ### 国赛论文
+* [2023年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)
+	* [A题：WLAN网络信道接入机制建模](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/A)
+	* [B题：DFT类矩阵的整数分解逼近](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/B)
+	* [C题：极差的定义及标准分的计算方](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/C)
+	* [D题：区域双碳目标与路径规划研究](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/D)
+	* [E题：出血性脑卒中临床智能诊疗建模](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/E)
+	* [F题：强对流降水临近预报](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/F)
+
 * [2022年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2022%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)
 	* [A题：移动场景超分辨定位问题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2022%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/A)
 	* [B题：方形件组批优化问题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2022%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/B)
