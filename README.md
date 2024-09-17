@@ -1,21 +1,36 @@
 # 数学建模资源
 
 ## 更新模块 
-* 更新 **[2023年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2023%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**(11.14出的结果)
-* 更新 **[2023年研究生数模试题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2023%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)**
-* 更新 </font>**[2022 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2022%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2023年8月25日）[⏬下载链接](https://pan.baidu.com/s/1WbDSEvYerB9LqsMTcAQLNg)，key:`i7in`
-* 更新 **[2023年数模建模 第二十届大赛](https://github.com/zhanwen/MathModel/tree/master/2023%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
-* 更新 **[2022年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**
-* 更新 **[2022年研究生数模比赛模版（Word/Latex）](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
-* 更新 </font>**[2021 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2021%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2022年6月25日）[⏬下载链接](https://pan.baidu.com/s/1j0rqd6tvKv4LxGRG0kUaKw)，key:`eyzf`
-* 更新 **[2022年研究生数模比赛通知](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
+* 更新 **[2024年数模悉知&论文模版（Word/Latex）](https://github.com/zhanwen/MathModel/tree/master/2024%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
+* 更新 **[2023年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**
 * **所有文件下载地址更新到微盘：[微盘下载](https://share.weiyun.com/Lk0sE1o4)，key：`uzw9mf`**
 * 同步所有文件到[百度云网盘](https://pan.baidu.com/s/1dOl-MRXtkLBU2l_UWPpYdA)，key:`bxdy`（2020年6月24日）
 * 百度云备用链接1: [点击下载](https://pan.baidu.com/s/1t6KIxwGky0p_1STrIxOQMQ)，key:`0rm9`
 * 百度云备用链接2: [点击下载](https://pan.baidu.com/s/1nO2oCk2_Dt8ED7Ff1IZ61w)，key:`5s6y`
 * 百度云备用链接3: [点击下载](https://pan.baidu.com/s/1eOq1-YcU3OGvlsenNQrmXw)，key:`29vl`
 
-## 2023 年研究生数模 (新)
+## 2024 年研究生数模 (新)
+*LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)（Latex 模版一般在官方给出 word 模版后更新，时间大概在比赛前一星期左右）
+
+*主题：* [**“华为杯”第二十一届中国研究生数学建模竞赛**](https://cpipc.acge.org.cn/cw/hp/4)（只允许2024级跨校组队，大家注意一下。）  
+
+*报名时间：* **2024年6月1日8:00——9月15日17:00**  
+*审核时间：* **2024年6月1日8:00——9月16日17:00**   
+*交费时间：* **2024年6月1日8:00——9月17日17:00**     
+*加密赛题开始下载时间：* **2024年9月20日8:00——9月25日12:00**   
+*赛题解密密码公布时间：* **2024年9月21日8:00——9月25日12:00**  
+*比赛时间：* **2024年9月21日8:00——9月25日12:00**  
+*上传论文MD5码时间：* **2024年9月24日12:00——9月25日12:00**    
+*上传PDF格式论文时间：* **2024年9月25日14:00——9月26日24:00**  
+*附件上传开始时间：* **2024年9月27日08:00——9月28日24:00**  
+*查看论文开始时间：* **2024年9月27日08:00——9月28日12:00**
+#### 官网报名地址：[官网地址](https://cpipc.acge.org.cn/cw/hp/4)
+ 
+[**历年数模比赛时间表**](https://github.com/zhanwen/MathModel/tree/master#%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%8E%86%E5%8F%B2%E6%9B%B4%E6%96%B0%E7%89%88%E6%9C%AC)
+<hr/>
+
+
+## 2023 年研究生数模
 *LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)（Latex 模版一般在官方给出 word 模版后更新，时间大概在比赛前一星期左右）
 
 *主题：* [**“华为杯”第二十届中国研究生数学建模竞赛**](https://cpipc.acge.org.cn/cw/hp/4)（只允许2023级跨校组队，大家注意一下。）  
@@ -200,6 +215,14 @@
    
    
 ## 以下是历史更新版本
+* 更新 **[2023年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2023%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**(11.14出的结果)
+* 更新 **[2023年研究生数模试题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2023%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)**
+* 更新 </font>**[2022 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2022%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2023年8月25日）[⏬下载链接](https://pan.baidu.com/s/1WbDSEvYerB9LqsMTcAQLNg)，key:`i7in`
+* 更新 **[2023年数模建模 第二十届大赛](https://github.com/zhanwen/MathModel/tree/master/2023%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
+* 更新 **[2022年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**
+* 更新 **[2022年研究生数模比赛模版（Word/Latex）](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
+* 更新 </font>**[2021 年优秀论文](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2021%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87)**（2022年6月25日）[⏬下载链接](https://pan.baidu.com/s/1j0rqd6tvKv4LxGRG0kUaKw)，key:`eyzf`
+* 更新 **[2022年研究生数模比赛通知](https://github.com/zhanwen/MathModel/tree/master/2022%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
 * 更新 **[2021年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2021%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**
 * 更新 **[2021年研究生数学建模竞赛试题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2021%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)**   
 * 更新 **[2021年论文模版](https://github.com/zhanwen/MathModel/tree/master/2021%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**（包括 word 版本、Latex 版本） 
