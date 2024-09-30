@@ -1,7 +1,7 @@
 # 数学建模资源
 
 ## 更新模块 
-* 更新 **[2024年数学建模赛题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2024%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)**(备注：2023年是11.14出的比赛结果)
+* 更新 **[2024年数学建模赛题](https://github.com/zhanwen/MathModel?tab=readme-ov-file#%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98)**(备注：2023年是11.14出的比赛结果)
 * 更新 2024赛题[百度云网盘](https://pan.baidu.com/s/1JIH0EbDA0xFef53AIHMymA)，key:`v44w`
 * 提醒 **[要及时关注论坛讨论内容](https://www.shumo.com/home/html/4561.html)**
 * 更新 **[2024年数模悉知&论文模版（Word/Latex）](https://github.com/zhanwen/MathModel/tree/master/2024%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
