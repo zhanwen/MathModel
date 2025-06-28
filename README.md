@@ -392,7 +392,7 @@
 * 其中有些内容整理自互联网，如有侵权，请联系，我将及时处理。
 
 ### 个人微信公众号
-* `dotzhang`：一名不羁的学僧，我的世界不只有学术。一条迷途的咸鱼，正在游向属于它的天地！  
+* `WellDev`：一名不羁的学僧，我的世界不只有学术。一条迷途的咸鱼，正在游向属于它的天地！  
 <img src="/images/donate/common.jpg" width="150" height="150" alt="weixin"/>
 
 
@@ -406,6 +406,6 @@
    
 ### 联系
 * Email：[hanwenme@gmail.com](https://mail.google.com/)
-* 微&nbsp;&nbsp;信:`syhilyhw`（有任何问题都可以直接怼我，加的时候备注说明一下）：  
+* WX:（有任何问题都可以直接怼我，加的时候备注说明一下）：  
 <img src="images/donate/wechat.png" width="150" height="150" alt="pay check"/>
 
