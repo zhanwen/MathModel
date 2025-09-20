@@ -1,7 +1,7 @@
 # 数学建模资源
 
 ## 更新模块 
-* 更新 **[2024年优秀论文](https://pan.baidu.com/s/1uxhi5n47ZsLm9fU1xqpS3g)，**key:`opr4`
+* 更新 **[2024年优秀论文](https://pan.baidu.com/s/1uxhi5n47ZsLm9fU1xqpS3g)，key:`opr4`** 
 * 更新 **[2025年数模悉知&论文模版（Word/Latex）](https://github.com/zhanwen/MathModel/tree/master/2025%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
 * 更新 **[2024年国赛试题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2024%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)**（24年优秀论文稍后更新）
 * 更新 **[2024年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2024%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**(24.11.27公布)
