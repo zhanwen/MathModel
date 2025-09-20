@@ -1,6 +1,7 @@
 # 数学建模资源
 
 ## 更新模块 
+* 更新 **[2025年数模悉知&论文模版（Word/Latex）](https://github.com/zhanwen/MathModel/tree/master/2025%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)**
 * 更新 **[2024年国赛试题](https://github.com/zhanwen/MathModel/tree/master/%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98/2024%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)**（24年优秀论文稍后更新）
 * 更新 **[2024年获奖名单](https://github.com/zhanwen/MathModel/tree/master/2024%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)**(24.11.27公布)
 * 更新 **[2024年数学建模赛题](https://github.com/zhanwen/MathModel?tab=readme-ov-file#%E5%9B%BD%E8%B5%9B%E8%AF%95%E9%A2%98)**(备注：2023年是11.14出的比赛结果)
@@ -14,7 +15,28 @@
 * 百度云备用链接2: [点击下载](https://pan.baidu.com/s/1nO2oCk2_Dt8ED7Ff1IZ61w)，key:`5s6y`
 * 百度云备用链接3: [点击下载](https://pan.baidu.com/s/1eOq1-YcU3OGvlsenNQrmXw)，key:`29vl`
 
-## 2024 年研究生数模 (新)
+## 2025 年研究生数模 (新)
+*[2025 LaTex 论文模版](https://github.com/zhanwen/MathModel/tree/master/2025%E5%B9%B4%E6%95%B0%E6%A8%A1%E6%82%89%E7%9F%A5%26%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88)使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)（Latex 模版一般在官方给出 word 模版后更新，时间大概在比赛前一星期左右）
+
+*主题：* [**“华为杯”第二十二届中国研究生数学建模竞赛**](https://cpipc.acge.org.cn/cw/hp/4)（只允许2025级跨校组队，大家注意一下。）  
+
+*报名时间：* **2025年6月1日8:00——9月15日17:00**  
+*审核时间：* **2025年6月1日8:00——9月16日17:00**   
+*交费时间：* **2025年6月1日8:00——9月17日17:00**     
+*加密赛题开始下载时间：* **2025年9月20日8:00——9月25日12:00**   
+*赛题解密密码公布时间：* **2025年9月21日8:00——9月25日12:00**  
+*比赛时间：* **2025年9月21日8:00——9月25日12:00**  
+*上传论文MD5码时间：* **2025年9月24日12:00——9月25日12:00**    
+*上传PDF格式论文时间：* **2025年9月25日14:00——9月26日24:00**  
+*附件上传开始时间：* **2025年9月27日08:00——9月28日24:00**  
+*查看论文开始时间：* **2025年9月27日08:00——9月28日12:00**
+#### 官网报名地址：[官网地址](https://cpipc.acge.org.cn/cw/hp/4)
+ 
+[**历年数模比赛时间表**](https://github.com/zhanwen/MathModel/tree/master#%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%8E%86%E5%8F%B2%E6%9B%B4%E6%96%B0%E7%89%88%E6%9C%AC)
+<hr/>
+
+
+## 2024 年研究生数模
 *LaTex 论文模版使用方式：* [**如何编译 Latex 文件**](https://github.com/zhanwen/MathModel/blob/master/2019%E5%B9%B4%E8%AE%BA%E6%96%87%E6%A8%A1%E7%89%88/README.md)（Latex 模版一般在官方给出 word 模版后更新，时间大概在比赛前一星期左右）
 
 *主题：* [**“华为杯”第二十一届中国研究生数学建模竞赛**](https://cpipc.acge.org.cn/cw/hp/4)（只允许2024级跨校组队，大家注意一下。）  
